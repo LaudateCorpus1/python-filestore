@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-filestore/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#29](https://github.com/googleapis/python-filestore/issues/29)) ([a72a4fe](https://github.com/googleapis/python-filestore/commit/a72a4fe7f506bc3a6a43d368784b17b4e00695ff))
+
 ## [1.0.0](https://www.github.com/googleapis/python-filestore/compare/v0.2.1...v1.0.0) (2021-11-03)
 
 
